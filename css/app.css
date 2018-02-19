@@ -13,6 +13,9 @@ body {
     display: flex;
     margin: 0;
     height: 100%;
+    background: url("https://images8.alphacoders.com/457/457330.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
